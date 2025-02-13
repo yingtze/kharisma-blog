@@ -69,7 +69,7 @@ Dalam Bash, array memungkinkan kalian menyimpan banyak nilai dalam satu variabel
 
     | Sintaks | Fungsi | d | d | m |
     | --- | --- | --- | --- | --- |
-    | `${my_array[0]}` |  |  |  |  |
+    | `${my_array[0]}` | ff |  |  |  |
     | `${my_array[-1]}` | dd |  |  |  |
     | `${my_array[@]}` | dd |  |  |  |
     | `${#my_array[@]}` | dd |  |  |  |
