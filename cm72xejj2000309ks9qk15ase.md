@@ -69,10 +69,10 @@ Dalam Bash, array memungkinkan kalian menyimpan banyak nilai dalam satu variabel
 
     | Sintaks | Fungsi |
     | --- | --- |
-    | `${my_array[0]}` | ff |
-    | `${my_array[-1]}` | dd |
-    | `${my_array[@]}` | dd |
-    | `${#my_array[@]}` | dd |
+    | `${my_array[0]}` | Mengakses elemen pertama |
+    | `${my_array[-1]}` | Mengakses elemen terakhir |
+    | `${my_array[@]}` | Mengakses semua elemen |
+    | `${#my_array[@]}` | Menghitung jumlah elemen |
         
 2. **Array Slicing**
     
