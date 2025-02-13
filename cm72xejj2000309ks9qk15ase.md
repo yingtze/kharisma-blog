@@ -67,12 +67,12 @@ Dalam Bash, array memungkinkan kalian menyimpan banyak nilai dalam satu variabel
  | `${#my_array[@]}` | Menghitung jumlah elemen |
 
 
-    | Sintaks | Fungsi | d | d | m |
-    | --- | --- | --- | --- | --- |
-    | `${my_array[0]}` | ff |  |  |  |
-    | `${my_array[-1]}` | dd |  |  |  |
-    | `${my_array[@]}` | dd |  |  |  |
-    | `${#my_array[@]}` | dd |  |  |  |
+    | Sintaks | Fungsi |
+    | --- | --- |
+    | `${my_array[0]}` | ff |
+    | `${my_array[-1]}` | dd |
+    | `${my_array[@]}` | dd |
+    | `${#my_array[@]}` | dd |
         
 2. **Array Slicing**
     
