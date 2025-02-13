@@ -176,3 +176,10 @@ Dalam Bash, array memungkinkan kalian menyimpan banyak nilai dalam satu variabel
     4. Hal yang Perlu Diperhatikan
         
         * Bash tidak mendukung indeks negatif untuk slicing string. Jika `length` tidak diberikan, maka akan mengambil karakter hingga akhir string.
+            
+
+| d | d | d | d | m |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| d | dd |  |  |  |
+| d | dd |  |  |  |
