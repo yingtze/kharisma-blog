@@ -169,7 +169,7 @@ Dalam Bash, array memungkinkan kalian menyimpan banyak nilai dalam satu variabel
         # Ambil 5 karakter mulai dari indeks 7
         echo "${text:7:5}" # Output: World
         
-        # Ambil 10 karakter mulai dari indeks 7 (meskipun ada 6 karakter tersisa
+        # Ambil 10 karakter mulai dari indeks 7 (meskipun ada 6 karakter tersisa)
         echo "${text:7:10}" # Output: World!
         ```
         
