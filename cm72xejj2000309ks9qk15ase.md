@@ -69,9 +69,9 @@ Dalam Bash, array memungkinkan kalian menyimpan banyak nilai dalam satu variabel
 
     | Sintaks | Fungsi | d | d | m |
     | --- | --- | --- | --- | --- |
-    |  |  |  |  |  |
-    | d | dd |  |  |  |
-    | d | dd |  |  |  |
+    | `${my_array[0]}` |  |  |  |  |
+    | `${my_array[-1]}` | dd |  |  |  |
+    | `${my_array[@]}` | dd |  |  |  |
         
 2. **Array Slicing**
     
