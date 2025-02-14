@@ -9,7 +9,7 @@ tags: unix, bash, bash-script
 
 Dalam Bash, conditional expression memungkinkan kalian menjalankan aksi berbeda berdasarkan kondisi yang bernilai true atau false. Fitur ini sangat penting untuk pengambilan keputusan sehingga script bisa merespon berbagai situasi secara dinamis. Bash menggunakan perintah gabungan `[[ … ]]` (atau sintaks lama `[ … ]` untuk mengevaluasi ekspresi, baik saat memeriksa atribut file, membandingkan string, atau mengevaluasi kondisi aritmetika.
 
-1. File Expressions
+1. **File Expressions**
     
     File expressions digunakan untuk menguji berbagai properti file dan direktori. Dengan cara ini, script dapat berinteraksi dengan sistem file secara aman.
     
@@ -107,7 +107,7 @@ Dalam Bash, conditional expression memungkinkan kalian menjalankan aksi berbeda 
         fi
         ```
         
-2. String Expression
+2. **String Expression**
     
     Pengujian string digunakan untuk memverifikasi isi atau kondisi data teks dalam variabel.
     
@@ -185,7 +185,7 @@ Dalam Bash, conditional expression memungkinkan kalian menjalankan aksi berbeda 
         fi
         ```
         
-3. Operator Aritmetika
+3. **Operator Aritmetika**
     
     Operator aritmetika di Bash memungkinkan perbandingan angka dengan sintaks khusus.
     
